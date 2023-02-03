@@ -1,2 +1,3 @@
-# Simply-Pots
+# Simply-Pots!
+
 A pot mod for minecraft!
